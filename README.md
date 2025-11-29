@@ -21,3 +21,6 @@ AutoBI-Agent automates the entire business-intelligence workflow. The agent read
 Impact
 
 The system eliminates manual reporting work, reduces analysis time from hours to minutes, and delivers standardized, high-quality insights every time. Non-technical users gain immediate access to analytics without needing expert skills, while analysts can focus on strategic tasks instead of repetitive chores. AutoBI-Agent demonstrates how autonomous AI systems can significantly improve operational efficiency and strengthen data-driven decision-making in any organization.
+
+
+You can run the ai-agent by copy&edit option in Kaggle Notebook.
